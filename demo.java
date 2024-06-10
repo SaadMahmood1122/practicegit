@@ -9,5 +9,6 @@ public static void main(String[] args) {
     System.out.println("Practicing the git");
     m1();
     m2();
+    System.out.println("project is completed successfully.....");
 }
 }
