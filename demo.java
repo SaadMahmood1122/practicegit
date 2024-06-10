@@ -7,5 +7,7 @@ public void m2(){
 }
 public static void main(String[] args) {
     System.out.println("Practicing the git");
+    m1();
+    m2();
 }
 }
